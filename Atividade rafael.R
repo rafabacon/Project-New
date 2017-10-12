@@ -3,6 +3,7 @@
 ## Curso: Big Data
 ## Matéria: Mineração de Dados
 ## Professores: Diego Nogare e Rogerio de Oliveira
+## Link GitHub: https://github.com/rafabacon/Project-New/edit/master/Atividade%20rafael.R
 
 
 ## Utlizei o caret por já possuir varias opções na biblioteca 
